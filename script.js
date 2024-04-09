@@ -7,7 +7,7 @@ function GetURLParameter(sParam) {
             return sParameterName[1];
         }
     }
-}​
+}
 
 var token = GetURLParameter('key');
-console.log("1");
+console.log(token);
