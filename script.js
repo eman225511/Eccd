@@ -10,4 +10,4 @@ function GetURLParameter(sParam) {
 }​
 
 var token = GetURLParameter('key');
-console.log(token);
+console.log("1");
