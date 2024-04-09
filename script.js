@@ -11,3 +11,6 @@ function GetURLParameter(sParam)
         }
     }
 }​
+
+var token = GetURLParameter('key');
+alert(token);
